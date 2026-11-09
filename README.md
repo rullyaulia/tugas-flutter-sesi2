@@ -1,1 +1,3 @@
-# tugas-flutter-sesi2
+## Tampilan Aplikasi
+
+![Screenshot Aplikasi Flutter](screenshot.png)
